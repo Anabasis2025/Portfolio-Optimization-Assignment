@@ -7,7 +7,7 @@ This repository contains my submission for Programming Assignment 2. The objecti
 - Can Monte Carlo simulation ientify superior portfolio allocations
 
 ## Repository Contents
-`Krug_Programming_Assignment_2.ipynb` - code. `Krug_Programming_Assignment_2.html` - HTML export with plots. `Krug_Programming_Assignment_2.docx` - Research Paper. `attf_polygon_data_extended.csv` - Daily OHLCV price data for ATTF securities from Checkpoint A.
+`Krug_Programming_Assignment_2.ipynb` - code. `Krug_Programming_Assignment_2.html` - HTML export with plots. `Krug_Programming_Assignment_2.docx` - Research Paper. `attf_polygon_data_extended (1).csv` - Daily OHLCV price data for ATTF securities from Checkpoint A.
 
 ## Results
 Monte Carlo simulation improved ATTF Sharpe ratios by 8.5% Optimal allocation increases AI infrastructure weighting from 40 to 67% and reduces Space and Robotics from 30 to 3%. Long-only constraints remain appropriate for momentum-based strategies.
